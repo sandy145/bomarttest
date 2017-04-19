@@ -1,2 +1,0 @@
-# bomarttest
-testpath
