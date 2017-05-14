@@ -155,6 +155,10 @@ fieldset[disabled] .btn-xl.active {
   background-color: #222222;
   border-color: transparent;
 }
+.navbar-default .navbar-brand{
+	color:#fed136;
+}
+
 .navbar-custom .navbar-brand {
   color: #fed136;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
@@ -618,6 +622,7 @@ footer {
   text-align: center;
 }
 footer span.copyright {
+color:#fec503;
   line-height: 40px;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
